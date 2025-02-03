@@ -1,7 +1,11 @@
 **Front-End Software Engineer Intern - Practical Challenge**
+
+
 For the practical challenge, I developed an e-commerce web application using React (Next.js) as the framework. The project was implemented with TypeScript for type safety and scalability, while Tailwind CSS was used for styling to ensure a responsive and modern user interface. Additionally, API integration was implemented to fetch dynamic data seamlessly.
 
 **Project Overview**
+
+
 The goal of this challenge was to build an e-commerce platform where users can purchase products. Instead of focusing on a single niche, I designed a versatile online store where users can shop for a variety of products, including clothing, shoes, jewelry, and more. This approach highlights my ability to handle diverse product categories and implement dynamic filtering systems.
 
 Key Features and Highlights
